@@ -1,5 +1,5 @@
-import Portfolio from './Components/portfolio'
-import {LanguageProvider} from './Context/LanguageContext'
+import Portfolio from './components/portfolio'
+import {LanguageProvider} from './context/LanguageContext'
 
 export default function App() {
   return (

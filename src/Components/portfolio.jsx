@@ -365,7 +365,7 @@ function useReveal() {
 }
 
 // ─── Components ────────────────────────────────────────────────────────────
-import { useLang } from '../Context/LanguageContext';
+import { useLang } from '../context/LanguageContext';
 
 function Nav({ scrolled }) {
   const { lang, toggle } = useLang();
