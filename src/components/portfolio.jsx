@@ -555,7 +555,7 @@ function Contact() {
             </a>
           </li>
           <li>
-            <a href="/CV 2025 (2).pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/CV 2026.pdf" target="_blank" rel="noopener noreferrer">
             Read.cv</a>
           </li>
         </ul>
