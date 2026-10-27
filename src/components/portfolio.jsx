@@ -550,6 +550,11 @@ function Contact() {
         <a href="mailto:valtterivartio@gmail.com" className="contact-email">valtterivartio@gmail.com</a>
         <ul className="contact-links">
           <li>
+            <a href="https://github.com/valvart1/Portfolio/tree/main" target="_blank" rel="noopener noreferrer">
+            GitHub
+            </a>
+          </li>
+          <li>
             <a href="https://www.linkedin.com/in/valtteri-vartio-a060921ab/" target="_blank" rel="noopener noreferrer">
             Linked In
             </a>
